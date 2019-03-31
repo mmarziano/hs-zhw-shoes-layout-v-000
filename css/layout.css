@@ -34,13 +34,14 @@
   display: block;
   float: left;
   width: 66%;
+  margin-bottom: 10px;
 }
 
 .col-1 {
   display: block;
   float: left;
   width: 32%;
-
+  margin-right: 10px;
 }
 
 .first {
