@@ -38,6 +38,7 @@
 
 .col-1 {
   display: block;
+  float: left;
   width: 32%;
   margin: 0px 20px 20px 0px;
 }
