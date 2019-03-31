@@ -33,14 +33,14 @@
 .col-2 {
   display: block;
   float: left;
-  width: 66%;
+  width: 66.66%;
   margin-bottom: 10px;
 }
 
 .col-1 {
   display: block;
   float: left;
-  width: 32%;
+  width: 33.33%;
   margin-right: 15px;
 }
 
